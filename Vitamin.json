@@ -1,0 +1,29 @@
+{
+  "author": "Vitamin",
+  "version": "3.1.0",
+  "description": "\u53EA\u6709\u9ED1\u9B54\u5199\u7684\u6BD4\u8F83\u5B8C\u6574\uFF0C\u5269\u4E0B\u7684\u80FD\u8FD0\u884C\u4F46\u662F\u53EF\u80FD\u6709\u95EE\u9898\uFF0C\u73A9\u7684\u5C11\uFF0C\u5927\u5BB6\u6D4B\u5927\u5BB6\u6D4B",
+  "supportedJobs": [
+    {
+      "job": "AST",
+      "contentScope": "PvP"
+    },
+    {
+      "job": "SGE",
+      "contentScope": "PvP"
+    },
+    {
+      "job": "BLM",
+      "contentScope": "PvP"
+    },
+    {
+      "job": "PCT",
+      "contentScope": "PvP"
+    }
+  ],
+  "apiVersion": 15,
+  "referencePromeVersion": "1.5.9.8",
+  "downloadUrl": "https://github.com/Vitaminl23/Vitamin-Release/releases/download/v3.1.0/Vitamin.zip",
+  "sourceRepositoryUrl": "https://github.com/Vitaminl23/Vitamin-Release",
+  "sponsorUrl": "",
+  "sha256": "093f748c6008f40233267817eba445ffde7dadb45555e3e7d41a9600b3aab7c1"
+}
