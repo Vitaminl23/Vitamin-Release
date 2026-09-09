@@ -1,7 +1,7 @@
 {
   "author": "Vitamin",
   "version": "3.4.5",
-  "description": "",
+  "description": "\u9ED1\u9B54\u76EE\u524D\u53EA\u6253\u51B0\u56E0\u4E3A\u6211\u53EA\u4F1A\u73A9\u51B0\uFF0C\u5176\u4ED6\u7684\u80FD\u6B63\u5E38\u8FD0\u884C\u4F46\u662F\u53EF\u80FD\u6709\u95EE\u9898\uFF0C\u591A\u591A\u53CD\u9988\u6211\u591A\u591A\u4FEE",
   "supportedJobs": [
     {
       "job": "SCH",
@@ -34,7 +34,7 @@
   ],
   "apiVersion": 15,
   "referencePromeVersion": "1.5.10.0",
-  "downloadUrl": "https://github.com/Vitaminl23/Vitamin-Release/releases/download/v3.4.5/Vitamin.zip",
+  "downloadUrl": "https://raw.githubusercontent.com/Vitaminl23/Vitamin-Release/refs/heads/main/Vitamin.json",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "",
   "sha256": "932f7a23f0aa0ff7208c093e0475335920fde767c17bcbd4abbaa91d086f092c"
