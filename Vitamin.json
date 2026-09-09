@@ -1,7 +1,7 @@
 {
   "author": "Vitamin",
   "version": "3.4.5",
-  "description": "黑魔占星写的比较完整，其他的都是附带的，有什么好的建议反馈",
+  "description": "黑魔占星写的比较完整，其他的能运行但是可能会有问题，有什么好的建议反馈",
   "supportedJobs": [
     {
       "job": "SCH",
